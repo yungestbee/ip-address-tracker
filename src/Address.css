@@ -17,7 +17,7 @@
     color: #fff;
 }
 form{
-    border:1px solid;
+    /* border:1px solid; */
     display:flex;
     align-content: center;
     justify-content: center;
